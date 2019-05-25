@@ -1,0 +1,3 @@
+<i class="board-index.*?>(.*)</i>.*? class="poster-default".*?"(.*?)".*?class="board-img".*?class="board-item-main".*?class="name"><a.*?>(.*?)</a>.*?class="star">(.*?)主演：张国荣,张丰毅,巩俐(.*?)</p>.*?class="releasetime".*?<p>(.*?)</p>.*?class="integer">(.*?)</i>.*?class="fraction">(.*?)</i></p>
+
+<i class="board-index.*?>(.*?)</i>.*?<img data-src="(.*?)".*?class="board-img">*?class="name">.*?>(.*?)<.*?class="star">\s+(.*?)\s+.*?class="releasetime">(.*?))</p>.*? class="integer">(.*?)<.*?class="fraction">(.*?)</

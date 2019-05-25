@@ -1,0 +1,55 @@
+1.Beyond the Personalization–Privacy Paradox: Privacy Valuation, Transparency Features, and Service Personalization.超越个性化-隐私悖论：隐私评估，透明度功能和服务个性化。[JMIS]
+
+摘要：数字服务需要访问消费者的数据，以提高服务质量和创造收入。但是，目前尚不清楚应如何配置此类服务以促进消费者分享个人信息的意愿。之前的研究讨论了选定的个人特征或服务配置的影响，包括透明度特征和服务个性化。本研究旨在揭示个人隐私评估，透明度特征和服务个性化之间的相互作用如何影响他们披露信息的意愿。基于信息边界理论，我们对286名参与者进行了数据密集型数字服务的实验研究。与我们的预期相反，我们没有发现提供透明度功能有助于个人信息披露的迹象。相对于个性化 - 隐私悖论，个人隐私评估一般是信息提供的强大抑制因素，不仅仅是个性化服务。个性化优势只能说服那些几乎不关注隐私的消费者。因此，服务提供商需要使其服务设计与消费者的隐私偏好保持一致。
+
+Digital services need access to consumers’ data to improve service quality and to generate revenues. However, it remains unclear how such services should be configured to facilitate consumers’ willingness to share personal information. Prior studies discuss an influence of selected individual traits or service configurations, including transparency features and service personalization. This study aims at uncovering how interactions among individuals’ privacy valuation, transparency features, and service personalization influence their willingness to disclose information. Building oninformation boundary theory, we conducted an experimental study with 286 participants on a data-intense digital service. In contrast to our expectation, we found no indication that providing transparency features facilitates individuals’ information disclosure. Relative to the personalization–privacy paradox, individuals’ privacy valuation is a strong inhibitor of information provision in general, not only for personalized services. Personalization benefits only convince consumers who exhibit little focus on privacy. Thus, service providers need to align their service designs with consumers’ privacy preferences.
+
+keyword: digital services; information boundary theory; information disclosure; information privacy; information-use transparency; personalization; privacy; transparency features; valuation of privacy
+		数字服务;信息边界理论;信息披露;信息隐私;信息使用透明度;个性化;隐私;透明度特征;隐私评估
+
+
+
+2.Beyond the Privacy Paradox: Objective Versus Relative Risk in Privacy Decision Making
+	超越隐私悖论：客观与隐私决策中的相对风险[MIS]
+
+摘要：隐私决策已经在文献中从另外的角度进行了研究。主导的“规范”观点侧重于理性过程，通过该过程，具有稳定的隐私偏好的消费者权衡隐私选择的预期收益与其潜在成本。最近，行为观点利用决策研究中的理论将隐私决策制定为可预测地发生认知启发和偏见的过程。在一系列实验中，我们通过评估披露的客观风险变化的影响以及披露风险的相对感知变化对假设和实际消费者隐私选择的影响来比较这两种观点的预测能力。我们发现相对和客观风险实际上可以影响消费者隐私决策。然而，令人惊讶的是，客观风险变化的影响在假设和实际选择设置之间减少。反之亦然，从假设到实际选择设置，相对风险的影响变得更加明显。我们的结果提出了一种将信息系统文献的各种流整合到隐私决策中的方法：在假设的选择环境中，相对于实际选择背景，消费者可能高估他们对规范因素的反应，低估他们对行为因素的反应。
+
+Privacy decision making has been examined in the literature from alternative perspectives. A dominant “normative” perspective has focused on rational processes by which consumers with stable preferences for privacy weigh the expected benefits of privacy choices against their potential costs. More recently, a behavioral perspective has leveraged theories from decision research to construe privacy decision making as a process in which cognitive heuristics and biases predictably occur. In a series of experiments, we compare the predictive power of these two perspectives by evaluating the impact of changes in the objective risk of disclosure and the impact of changes in the relative perceptions of risk of disclosure on both hypothetical and actual consumer privacy choices. We find that both relative and objective risks can, in fact, influence consumer privacy decisions. However, and surprisingly, the impact of objective changes in risk diminishes between hypothetical and actual choice settings. Vice versa, the impact of relative risk becomes more pronounced going from hypothetical to actual choice settings. Our results suggest a way to integrate diverse streams of the information systems literature on privacy decision making: in hypothetical choice contexts, relative to actual choice contexts, consumers may both overestimate their response to normative factors and underestimate their response to behavioral factors.
+
+keyword:Privacy, privacy paradox, behavioral economics, prospect theory, reference dependence
+		隐私，隐私悖论，行为经济学，前景理论，参考依赖
+
+
+
+3.How Much to Share with Third Parties? User Privacy Concerns and Website Dilemmas
+	与第三方分享多少？用户隐私问题和网站困境[MIS]
+
+ 摘要：发布者网站越来越多地呈现内容和服务，这些内容和服务不是由网站管理员自己创建和管理的，而是由其他第三方提供的。虽然第三方内容和服务为网站用户提供了价值和实用性，但这是以与第三方共享用户信息为代价的。围绕信息泄露的隐私问题一直在迅速增长。随着对在线隐私和信息披露的担忧日益增加，了解影响发布商网站与第三方之间共享水平的因素非常重要。在这项研究中，我们提出了一个双边经济模型，捕捉用户，出版商网站和第三方之间的互动。具体而言，我们关注隐私问题对发布商网站共享行为的影响以及用户隐私问题对第三方市场集中度的影响。然后，我们分析福利方面，以提供有关行业法规和政策对用户，出版商网站和第三方影响的见解。我们使用对发布商网站第三方共享行为和行业结构的探索性实证分析来部分验证该模型。据我们所知，本研究是第一个分析发布者网站与第三方共享用户信息的决策。
+
+ Publishers websites are increasingly presenting content and services that are not created and managed by the website administrators themselves, but are provided by other third parties. While third party content and services provide value and utility to website users, this comes at the cost of user information being shared with the third party. Privacy concerns surrounding information leakage have been growing rapidly. With increasing concerns regarding online privacy and information disclosure, it is important to understand the factors that affect the level of sharing between publisher websites and third parties. In this study, we propose a two-sided economic model that captures the interaction between the users, publisher websites, and third parties. Specifically, we focus on the effect of privacy concerns on the sharing behavior of the publisher website and the impact of users’ privacy concerns on third party market concentration. We then analyze welfare aspects to provide insights on the impacts of industry regulations and policy on users, publisher websites, and third parties. We partially validate the model using an exploratory empirical analysis of publisher website third party sharing behavior and the structure of the industry. To the best of our knowledge, this study is among the first to analyze publisher website decision making in sharing user information with third parties.
+
+ keyword:Economics of information systems, privacy, third parties, information sharing, social welfare
+ 		 信息系统经济学，隐私，第三方，信息共享，社会福利
+
+
+
+ 4.Role of Affect in Self-Disclosure on Social Network Websites: A Test of Two Competing Models.
+ 	影响在社交网站自我报告中的作用：两种竞争模型的检验。[JMIS]
+
+ 摘要：本研究考察了影响自我披露对社交网络（SN）网站的影响。我们分别测试了两个基于直接因果理论并影响启发式理论的竞争模型。在直接影响模型中，影响引导自我披露，独立于认知成本 - 收益评估。间接效应模型反而表明，影响通过调整对收益和成本的看法来影响自我披露。这些模型的实证比较依赖于来自500多名大学生的调查数据。总体而言，影响通过调整人们感知的益处间接地影响自我披露。特别是，对自我披露的影响和对SN网站的影响与自我披露激励因素有关;他们的感知价值在积极情绪的存在下似乎被放大了。根据间接效应模型，我们还提供了隐私风险和自我披露之间观察到的正相关关系的合理的替代解释，其中自我披露主要由激励因素驱动，而抑制因素的影响依赖于后验自我披露。 这些发现要求重新考虑任何专注于影响对技术使用的直接影响，这在以前的研究中是常见的，并且表明情感因素对于理解社会技术使用和管理客户关系的重要性。
+
+ This study examines how affect influences self-disclosure on social network (SN) websites. We test two competing models that build on direct causation theory and affect heuristic theory, respectively. In a direct effect model, affect steers self-disclosure, independent of cognitive cost–benefit appraisals. The indirect effect model instead suggests that affect influences self-disclosure by adjusting perceptions of benefits and costs. The empirical comparison of the models relies on survey data from more than 500 university students. Overall, affect influences self-disclosure indirectly by adjusting the benefits people perceive. In particular, affect toward self-disclosure and toward SN websites relate positively to self-disclosure motivators; their perceived values appear amplified in the presence of positive affect. We also offer a plausible, alternative explanation of the observed positive relationship between privacy risk and self-disclosure according to an indirect effect model, in which self-disclosure is driven mainly by motivators, whereas the effects of inhibitors depend a posteriori on self-disclosure. These findings call for a reconsideration of any exclusive focus on the direct impacts of affect on technology use, as is common in previous research, and suggest the importance of affective factors for understanding social technology uses and managing customer relationships. 
+
+ keyword:dual processing approach,online privacy,online self-disclosure,social network sites
+ 		 双重处理方法,在线隐私,在线自我披露,社交网站
+
+
+5.The Impact of Health Information Sharing on Duplicate Testing
+	健康信息共享对重复测试的影响[MIS]
+
+摘要：最近的医疗改革重点是减少美国医疗保健系统中的过度浪费，重复测试是其中的罪魁祸首之一。当患者使用来自多个提供者的医疗服务时，我们会探索与重复测试相关的因素，但这些提供者之间的信息共享是分散的。我们假设与实验室测试相比，实施健康信息共享技术将使放射学测试的复制率降低更多，特别是在不同的提供者组织实施健康信息共享技术时。我们利用独特的面板数据集，包括2005年至2012年的39,600名患者就诊，以及68家医院的门诊诊所，以检验我们的假设。我们采用准实验方法来研究健康信息共享技术对重复测试率的影响。我们的研究结果表明，卫生组织使用信息共享技术与较低的重复率相关，并且与实验室测试相比，放射学测试中重复测试的减少程度更为明显。我们的结果支持实施健康信息交换的必要性，作为降低重复测试发生率的潜在解决方案。
+
+Recent healthcare reform has focused on reducing excessive waste in the U.S. healthcare system, with duplicate testing being one of the main culprits. We explore the factors associated with duplicate tests when patients utilize healthcare services from multiple providers, and yet information sharing across these providers is fragmented. We hypothesize that implementation of health information sharing technologies will reduce the duplication rate more for radiology tests compared to laboratory tests, especially when health information sharing technologies are implemented across disparate provider organizations. We utilize a unique panel data set consisting of 39,600 patient visits from 2005 to 2012, across outpatient clinics of 68 hospitals, to test our hypotheses. We apply a quasi-experimental approach to investigate the impact of health information sharing technologies on the duplicate testing rate. Our results indicate that usage of information sharing technologies across health organizations is associated with lower duplication rates, and the extent of reduction in duplicate tests is more pronounced among radiology tests compared to laboratory tests. Our results support the need for implementation of health information exchanges as a potential solution to reduce the incidence of duplicate tests.
+
+keyword:Duplicate testing, health information sharing, health information exchange, quasi-experiment, radiology test, laboratory test
+		重复测试，健康信息共享，健康信息交换，准实验，放射学测试，实验室测试
