@@ -1,6 +1,7 @@
 import requests
 import re
 import json
+from os.path import exists
 
 
 # 获取网页
@@ -18,15 +19,18 @@ def get_url(url):
 
 def write_into_txt(txt):
     with open('E:\\computer\\Python\\programs\\爬虫\\猫眼爬虫\\test.txt',
-              'w',
+              'a',
               encoding='utf-8') as file:
         file.write(txt)
 
 
 def read_txt(file_name):
-    with open(file_name, 'r', encoding='utf-8') as file:
-        content = file.read()
-        return content
+    if exists(file_name):
+        print("> 爬虫文件存在")
+        with open(file_name, 'r', encoding='utf-8') as file:
+            content = file.read()
+            return content
+    return 0
 
 
 # 提取数据
@@ -46,27 +50,30 @@ def parser_text(html):
             '评分': item[5] + item[6]
         }
         print(dic)
-
-
-def create_json(dic):
-    with open('E:\\computer\\Python\\programs\\爬虫\\猫眼爬虫\\result.json',
-              'a',
-              encoding='utf-8') as file:
-        file.write(json.dumps(dic, ensure_ascii=False) + '\n')
+        # 存入文件中
+        book_list = json.dumps(dic, ensure_ascii=False)
+        path = 'E:\\computer\\Python\\programs\\爬虫\\猫眼爬虫\\result.txt'
+        with open(path, 'a', encoding='utf-8') as file:
+            file.write(book_list + "\n")
+        if exists(path):
+            print(f"> 数据结果已经保存至{path}")
 
 
 # 主函数
 def main():
-    #     url = "https://maoyan.com/board/4?offset=0"
-    #     html = get_url(url)
-    #     write_into_txt(html)
-    file = 'E:\\computer\\Python\\programs\\爬虫\\猫眼爬虫\\test.txt'
-    html_read = read_txt(file)
-    # print(html_read)
-    parser_text(html_read)
+    for a in range(5):
+        num = a * 10
+        url = f"https://maoyan.com/board/4?offset={num}"
+        html = get_url(url)
+        write_into_txt(html)
+        file = 'E:\\computer\\Python\\programs\\爬虫\\猫眼爬虫\\test.txt'
+        html_read = read_txt(file)
+        # print(html_read)
+    dic = parser_text(html_read)
+    print(dic)
+    # create_txt(dic)
+    # write_into_txt(dic)
 
 
-#     for i in parser_text(html_read):
-#         create_json(i)
-
-main()
+if __name__ == "__main__":
+    main()
