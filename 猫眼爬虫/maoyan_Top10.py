@@ -6,6 +6,9 @@ from os.path import exists
 
 # 获取网页
 def get_url(url):
+    """
+    获取网页内容，传入网址
+    """
     headers = {
         'User-agent':
         'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36'
@@ -18,6 +21,9 @@ def get_url(url):
 
 
 def write_into_txt(txt):
+    """
+    保存数据，传入获得的网页内容
+    """
     with open('E:\\computer\\Python\\programs\\爬虫\\猫眼爬虫\\test.txt',
               'a',
               encoding='utf-8') as file:
@@ -25,6 +31,9 @@ def write_into_txt(txt):
 
 
 def read_txt(file_name):
+    """
+    读取数据，传入文件路径
+    """
     if exists(file_name):
         print("> 爬虫文件存在")
         with open(file_name, 'r', encoding='utf-8') as file:
@@ -35,7 +44,11 @@ def read_txt(file_name):
 
 # 提取数据
 def parser_text(html):
-    # 正则表达式
+    """
+    使用正则表达式提取数据；
+    并保存为dic数据；
+    传入读取的数据
+    """
     pattern = re.compile(
         r'<i class="board-index.*?>(.*?)</i>.*?<img data-src="(.*?)".*?class="board-img".*?class="name">.*?>(.*?)<.*?class="star">(.*?)<.*?class="releasetime">上映时间：(.*?)</p>.*?class="integer">(.*?)</.*?class="fraction">(.*?)<',
         re.S)
@@ -61,6 +74,9 @@ def parser_text(html):
 
 # 主函数
 def main():
+    """
+    程序入口
+    """
     for a in range(5):
         num = a * 10
         url = f"https://maoyan.com/board/4?offset={num}"
